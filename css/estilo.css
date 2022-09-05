@@ -1,0 +1,37 @@
+body{
+    background-color: black;
+}
+.fonte-azul{
+    color: blue;
+    /* font-family: cursive; */
+}
+
+.fonte-vermelha{
+    color: red;
+}
+
+.fonte-amarela{
+    color: yellow;
+    /* font-family: cursive; */
+}
+.fonte-amarela .fonte-vermelha{
+    font-style: italic;
+}
+
+.fonte-amarela, .fonte-azul{
+    font-family: cursive;
+}
+
+.destacado{
+    font-weight: bold;
+    background-color: white;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+    background-color: red;
+}
+ 
