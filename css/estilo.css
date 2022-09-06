@@ -12,6 +12,7 @@ body{
 
 .fonte-amarela{
     color: yellow;
+    margin-bottom: 20px;
     /* font-family: cursive; */
 }
 .fonte-amarela .fonte-vermelha{
@@ -20,6 +21,22 @@ body{
 
 .fonte-amarela, .fonte-azul{
     font-family: cursive;
+}
+
+.imagem-metade{
+    width: 50%;
+    border: solid yellow;
+    border-width: 5px 2px 2px 2px;
+    margin-top: 10px;
+    padding: 10px;
+}
+
+.metade{
+    width: 50%;  
+}
+
+.descricao-imagem{
+    margin-top: 20px;
 }
 
 .destacado{
